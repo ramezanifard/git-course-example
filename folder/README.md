@@ -7,3 +7,6 @@ We are learning how tomake commits.
 3. git commit -m "message...." --creates a commit
 
 we are about to make a commit without best practices.
+
+hi
+goodbye
